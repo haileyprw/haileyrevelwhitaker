@@ -1,8 +1,36 @@
+* {
+    padding: 0px;
+    margin: 0px;
+}
 h1 {
     font-family: "monument_extendedregular", sans-serif;
     font-weight:normal;
     font-style:normal;
 }
+header {
+    width: 100%;
+    height: 60px;
+    background-color: azure;
+    border-style: solid;
+    border-width: 2px;
+    border-color: black;
+}
+header ul {
+    list-style: none;
+    font-size: 17px;
+}
+header li {
+    display: inline-block;
+    padding-top: 20px;
+    padding-right: 40px;
+    padding-left: 40px;
+}
+header a {
+    color: black;
+    text-decoration: none;
+}
 body {
     background-color: #364989;
 }
+
+
