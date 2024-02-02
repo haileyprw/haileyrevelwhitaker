@@ -4,8 +4,8 @@
 
 @font-face {
     font-family: 'monument_extendedregular';
-    src: url('./fonts/monumentextended-regular-webfont.woff2') format('woff2');
-    src: url('./fonts/monumentextended-regular-webfont.woff') format('woff');
+    src: url('https://haileyprw.github.io/haileyrevelwhitaker/fonts/monumentextended-regular-webfont.woff2') format('woff2');
+    src: url('https://haileyprw.github.io/haileyrevelwhitaker/fonts/monumentextended-regular-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 
@@ -16,8 +16,8 @@
 
 @font-face {
     font-family: 'monument_extendedultrabold';
-    src: url('https://haileyprw.github.io/me/fonts/monumentextended-ultrabold-webfont.woff2') format('woff2');
-    src: url('https://haileyprw.github.io/me/fonts/monumentextended-ultrabold-webfont.woff') format('woff');
+    src: url('https://haileyprw.github.io/haileyrevelwhitaker/fonts/monumentextended-ultrabold-webfont.woff2') format('woff2');
+    src: url('https://haileyprw.github.io/haileyrevelwhitaker/fonts/monumentextended-ultrabold-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 
