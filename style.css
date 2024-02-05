@@ -1,7 +1,7 @@
 html{
     scroll-behavior: smooth;
 }
-#intro h1 {
+#intro {
     font-family: "monument_extendedregular";
     font-size: 100px;
 }
